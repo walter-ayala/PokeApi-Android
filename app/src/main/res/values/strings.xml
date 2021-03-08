@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="count">Count: %1$d</string>
+    <string name="no_characters_to_show">No hay personajes para mostrar</string>
+    <string name="altura">Altura: %1$d</string>
+    <string name="experiencia">Experiencia base: %1$d</string>
+    <string name="id_numero">ID número: %1$d</string>
+    <string name="nombre">Nombre: %1$s</string>
+    <string name="weight">Weight: %1$d</string>
+    <string name="estadisticas">Estadistícas: %1$s</string>
+    <string name="id"># %1$s</string>
+</resources>
