@@ -11,6 +11,8 @@ data class CharacterDetails(
     val base_experience: Int?,
     val weight: Int?,
     val sprites: Sprites?,
-    val stats: List<Stat>?,
-    val imagen: String= "https://pokeres.bastionbot.org/images/pokemon/$id.png"
+    val stats: List<Stats>?,
+    val imagen: String= "https://pokeres.bastionbot.org/images/pokemon/$id.png",
+    val abilities: List<Abilities>?,
+    val moves: List<Moves>?
 )
